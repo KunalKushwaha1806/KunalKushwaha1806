@@ -26,7 +26,11 @@
   <a href="https://leetcode.com/u/kunalkushwaha1806/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode" height="30" width="100" />
   </a>
+  <a href="https://linkedin.com/in/kunalkushwaha1806" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="30" width="100" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

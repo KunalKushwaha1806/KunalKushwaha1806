@@ -20,7 +20,7 @@
   <a href="https://instagram.com/_http.kunall" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://hashnode.com/@kunal" target="_blank">
+  <a href="https://hashnode.com/@kunalkushwaha" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge" alt="Hashnode" height="30" width="100" />
   </a>
   <a href="https://leetcode.com/u/kunalkushwaha1806/" target="_blank">

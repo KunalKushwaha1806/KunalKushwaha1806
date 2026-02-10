@@ -47,29 +47,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
----
 
-<h3 align="left">GitHub Stats:</h3>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalkushwaha1806&show_icons=true&locale=en&layout=compact" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalkushwaha1806&show_icons=true&locale=en" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=kunalkushwaha1806" />
-</p>
-
----
-
-<h3 align="left">🏆 GitHub Trophies</h3>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalkushwaha1806&theme=onedark&no-frame=true&margin-w=15" />
-</p>
-
----
 
 <h3 align="left">LeetCode Stats</h3>
 <p align="center">

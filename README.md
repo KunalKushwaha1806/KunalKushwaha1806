@@ -56,10 +56,10 @@
 
 <h3 align="left">LeetCode Progress (Auto Updated)</h3>
 
-- 🟢 Total Solved: <!-- LC_TOTAL -->571<!-- LC_TOTAL -->
-- 🟢 Easy: <!-- LC_EASY -->212<!-- LC_EASY -->
+- 🟢 Total Solved: <!-- LC_TOTAL -->573<!-- LC_TOTAL -->
+- 🟢 Easy: <!-- LC_EASY -->213<!-- LC_EASY -->
 - 🟡 Medium: <!-- LC_MEDIUM -->266<!-- LC_MEDIUM -->
-- 🔴 Hard: <!-- LC_HARD -->93<!-- LC_HARD -->
+- 🔴 Hard: <!-- LC_HARD -->94<!-- LC_HARD -->
 
 ---
 
